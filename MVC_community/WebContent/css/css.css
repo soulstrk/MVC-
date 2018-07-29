@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+	
+	#span1{
+		margin-top:30px;
+		display:block;
+		text-align: center;
+	}
+	#nowTime{
+		text-align: center;
+		font-family: cursive;
+		font-size: 30px;
+	}
+	#top1{
+		 height: 230px; margin-top: 30px;
+		 padding-top: 25px;
+	}
+	#top-left{
+		background-image: url("../img/super.jpg");
+		background-repeat: no-repeat;
+		background-position: left;
+	}
+	#top-middle{
+		padding-top: 30px;
+	}
+	#top-right{
+		background-image: url("../img/super.jpg");
+		background-repeat: no-repeat;
+		background-position: right;
+	}
+	.col-md-4{
+		height: 230px;
+	}
+	#tt{
+		padding-top: 30px;
+	}
+	#login{
+		background-color: lightgrey; height: 180px; width: 250px;
+		margin-top: 30px; padding-top: 8px;
+	}
+	.container{
+		
+	}
+	#join{
+		float: left; margin-top: 15px; margin-left: 0px;
+	}
+	#bjoin{
+		float: left; margin-left: 15px; margin-top: 15px;
+	}
+	#table1{
+		margin-top: 30px;
+		padding-left: 0px;
+	}
+	#LtimeBox{
+		background-color: lightgrey;
+		height: 150px;
+	}
+	#RtimeBox{
+		background-color: lightgrey;
+	}
+	.pic1{
+		width: 80px;
+		height: 80px;
+	}
+	#hurai{
+		width: 30px;
+		height: 30px;
+		position: absolute;
+		left: 350px;
+		top: 200px;
+	}
+	#writeView{
+		width: 700px;
+		height: 500px;
+		position: absolute;
+		
+		left:400px;
+		
+		top:100px;
+		border: 1px solid gray;
+		background-color: gray;
+		z-index: 1;
+		display: none;
+	}
+	body{
+		margin: 0 auto;
+	}
+	
+	#contentBox{
+		width: 700px;
+		height: 800px;
+		background-color: lightgrey;
+		margin:0 auto;
+		float: none;
+		margin-top: 100px;
+		text-align: center;
+		padding-top: 100px;
+	}
+	
+	
+	
+	
